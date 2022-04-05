@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeterAston
 - 👀 I’m interested in Unified Observability, SCOM, SquaredUp, PowerShell and Azure
-- 🌱 I’m currently learning Git, Terraform, Python, Azure Fundamentals
+- 🌱 I’m currently learning Git, Terraform, Python, Azure ~~Fundamentals AZ-900~~ Administrator AZ-104
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
